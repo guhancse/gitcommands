@@ -8,7 +8,7 @@ git fetch vs git pull
 
     git pull - does both. updates your local repo as well. 
 
-    <img width="423" height="118" alt="image" src="https://github.com/user-attachments/assets/7e3bbd86-57a1-4369-adbd-53d0b8245b0d" />
+<img width="423" height="118" alt="image" src="https://github.com/user-attachments/assets/7e3bbd86-57a1-4369-adbd-53d0b8245b0d" />
 
 
 git rebase vs git merge
