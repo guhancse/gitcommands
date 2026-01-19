@@ -2,6 +2,9 @@
 
 git fork vs git clone
 
+<img width="721" height="356" alt="image" src="https://github.com/user-attachments/assets/ec7b4550-f858-48ff-a16e-61e1d4e1f592" />
+
+
 git fetch vs git pull
 
     git fetch - updates the latest changes in your remote branches on your local machine. No impact to your local repo. (fetch + merge)
